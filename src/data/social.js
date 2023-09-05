@@ -9,7 +9,7 @@ const social = [
         id: 2,
         socialLink: 'https://github.com/iamibrahimansari',
         text: 'Github',
-        logoLink: '/images/leetcode.svg'
+        logoLink: '/images/github.svg'
     },
     {
         id: 3,
